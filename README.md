@@ -1,3 +1,3 @@
 - 👋 hola , Soy @ProDevCredit
-- 👀 estoy interesado en php/pmmp
+- 🦁 estoy interesado en php
 - 🌱 estoy aprendiedndo JavaScript
